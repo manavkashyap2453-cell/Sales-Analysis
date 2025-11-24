@@ -2,6 +2,8 @@
 
 A detailed analysis of sales at a retail store.
 
+![Supermarket](supermarket-949913_1280.jpg)
+
 ---
 
 ## 📌 Project Overview
